@@ -30,5 +30,5 @@ using OpenAI's image model. It's perfect for improving accessibility and better 
 
 ## Live demo
 
-[imgalt-fe.vercel.app](https://imgalt-fe.vercel.app/)
+[imgalt-fe.vercel.app]([https://imgalt-fe.vercel.app/](https://alt-text-from-image.vercel.app/))
   
